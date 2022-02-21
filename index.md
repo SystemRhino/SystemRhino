@@ -4,8 +4,6 @@ I'm a Web Developer and Pentester, I like new and different projects that have s
 
 ### Languages:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 
 # JavaScript
@@ -21,7 +19,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Contact
 
 [Telegram](https://t.me/SystemRhino)
+
 [Twitter](https://twitter.com/SystemRhinoOfc)
+
 [Github](https://github.com/SystemRhino/SystemRhino)
+
 [Instagram](https://instagram.com/systemrhino)
+
 [Daily](https://app.daily.dev/SystemRhino)
+
