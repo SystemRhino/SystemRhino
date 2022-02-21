@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## >/System Rhino
 
-You can use the [editor on GitHub](https://github.com/SystemRhino/SystemRhino/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Web Developer and Pentester, I like new and different projects that have some public or private use. My leisure is to study new programming languages, watch series/films that involving the area, mainly CyberSecury and playing FPS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Languages:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# JavaScript
+# Java
+# Php
+# Python
 
-- Bulleted
-- List
+- studying new languages
+- improving the current
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SystemRhino/SystemRhino/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Telegram](https://t.me/SystemRhino)
+[Twitter](https://twitter.com/SystemRhinoOfc)
+[Github](https://github.com/SystemRhino/SystemRhino)
+[Instagram](https://instagram.com/systemrhino)
+[Daily](https://app.daily.dev/SystemRhino)
