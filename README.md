@@ -1,10 +1,14 @@
-# 🛸 Opa! Seja bem vindo ao meu lar no Github
+# 🛸 Opa! Seja bem vindo ao meu perfil no Github
 ## Meu pseudo é SystemRhino!
 Nesse momento estou estudando e aprimorando conhecimentos.
 
 ## Estou Estudando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## Minhas Estatísticas 
 
