@@ -1,5 +1,6 @@
-# 👋 Opa! Seja bem vindo ao meu lar no github.
+# 🛸 Opa! Seja bem vindo ao meu lar no Github
 ## Meu pseudo é SystemRhino!
+Nesse momento estou estudando e aprimorando conhecimentos.
 
 ## Estou Estudando
 
