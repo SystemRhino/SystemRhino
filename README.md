@@ -15,7 +15,6 @@ Nesse momento estou estudando e aprimorando conhecimentos na área de desenvolvi
   
 <a href="https://app.daily.dev/SystemRhino"><img src="https://api.daily.dev/devcards/98b1dd8bd6984368a480ea1985152ce4.png?r=er5" width="400" alt="SystemRhino's Dev Card"/></a>
   
-  ---
   
 ## Contatos:
 
@@ -26,6 +25,8 @@ Nesse momento estou estudando e aprimorando conhecimentos na área de desenvolvi
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+---
 
 <div>
 <a href="https://github.com/SystemRhino">
