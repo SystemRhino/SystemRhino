@@ -1,6 +1,6 @@
 # 🛸 Opa! Seja bem vindo ao meu perfil no Github
 ## Meu pseudo é SystemRhino!
-Nesse momento estou estudando e aprimorando conhecimentos.
+Nesse momento estou estudando e aprimorando conhecimentos na área de desenvolvimento web e hacking, gosto de estudar vulnerabilidades e desenvolver ferramentas.
 
 ## Estou Estudando
 
