@@ -29,5 +29,5 @@ Nesse momento estou estudando e aprimorando conhecimentos na área de desenvolvi
 
 <div>
 <a href="https://github.com/SystemRhino">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SystemRhino&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SystemRhino&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SystemRhino&layout=compact&langs_count=7&theme=shades-of-purple"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SystemRhino&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
 </div>
